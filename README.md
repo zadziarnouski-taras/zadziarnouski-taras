@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image]({https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white} https://t.me/taraszadziarnouski)
+  <a href="https://www.linkedin.com/in/taras-zadziarnouski/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
-![Screenshot 2020-02-09 at 5 08 54 PM](https://user-images.githubusercontent.com/33011208/74101378-2ef4e880-4b5f-11ea-8e9d-5ae1d811a35a.png)
+
 
 <a href="https://t.me/taraszadziarnouski">
 ![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   </a>
+  
+  
 <a href="https://t.me/taraszadziarnouski">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;

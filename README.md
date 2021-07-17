@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 <a href="https://t.me/taraszadziarnouski">
 ![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   </a>
+<a href="https://t.me/taraszadziarnouski">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;

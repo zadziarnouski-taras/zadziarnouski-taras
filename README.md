@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   </p>
   
   <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=zadziarnouski-taras&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=zadziarnouski-taras&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/zadziarnouski-taras/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadziarnouski-taras&layout=compact"/></a>
 </p>

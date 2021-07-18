@@ -15,18 +15,22 @@ Here are some ideas to get you started:
 
 ## 👨💻 About me 
 
-fsfsdfsdfsdfsdfsfsfds
+Junior Software Engineer with more than year of development experience (no commertial). I have excellent knowledge in backend development on Java. I have successfully developed several of my pet-projects.
 
 ### Key points
-* 1
-* 2
-* 3
+* Key skill Java backend development
+
+
 
 ## 🛠️ Technical Stack
 
-* 1
-* 2
-* 3
+* Java
+* MySQL, PostgreSQL
+* Servlets, JDBC, Tomcat, Maven, Thymeleaf, JSP
+* Spring Framework, Spring Core, Spring Web, Spring MVC, Spring Date JPA (Hibernate), Spring Boot, Spring Test and so on...
+* AWS: EC2, S3, Bucket; Docker, Virtual Box
+* Swagger, ModelMapper, Cloudinary, Mockito, JUnit
+* Linux, Intelij IDEA, Postman
 
   ## General GitHub activity:
   

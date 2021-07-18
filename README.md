@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 
 ## 👨💻 About me 
 
-Junior Software Engineer with more than year of development experience (no commertial). I have excellent knowledge in backend development on Java. I have successfully developed several of my pet-projects.
+Junior Software Engineer with more than year of development experience (no commertial). I have excellent theoretical knowledge of Java Core (SE) and Java EE. I have successfully developed several of my pet-projects.
 
 ### Key points
 * Key skill Java backend development
-
 
 
 ## 🛠️ Technical Stack

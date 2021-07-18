@@ -1,5 +1,3 @@
-### Hi, I'm Taras 🙂 
-
 <!--
 **zadziarnouski-taras/zadziarnouski-taras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 👨‍💻 About me 
+
+fsfsdfsdfsdfsdfsfsfds
+
+### Key points
+sfsdfsdfsf
+
+## 🛠️ Technical Stack
+
+sdfsd
+
+
+  
+  ## General GitHub activity:
+  
+  <p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=zadziarnouski-taras&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=zadziarnouski-taras&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/zadziarnouski-taras/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadziarnouski-taras&layout=compact"/></a>
+</p>
+
 
 <p align="center">
   <a href="https://t.me/taraszadziarnouski">
@@ -29,12 +49,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   </p>
-  
-  ## General GitHub activity:
-  
-  <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=zadziarnouski-taras&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=zadziarnouski-taras&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/zadziarnouski-taras/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadziarnouski-taras&layout=compact"/></a>
-</p>

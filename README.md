@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 fsfsdfsdfsdfsdfsfsfds
 
 ### Key points
-sfsdfsdfsf
+* 1
+* 2
+* 3
 
 ## 🛠️ Technical Stack
 
-sdfsd
+* 1
+* 2
+* 3
 
-
-  
   ## General GitHub activity:
   
   <p align='center'>

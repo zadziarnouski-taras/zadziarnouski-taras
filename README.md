@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
   </p>
   
-  # General GitHub activity:
+  ## General GitHub activity:
   
   <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=zadziarnouski-taras&show_icons=true&count_private=true">

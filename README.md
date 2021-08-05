@@ -26,7 +26,7 @@ Junior Software Engineer with more than year of development experience (no comme
 * Java
 * MySQL, PostgreSQL
 * Spring Framework, Spring Core, Spring Web, Spring MVC, Spring Date JPA (Hibernate), Spring Boot, Spring Test and so on...
-* * Servlets, JDBC, Tomcat, Maven, Thymeleaf, JSP
+* Servlets, JDBC, Tomcat, Maven, Thymeleaf, JSP
 * AWS: EC2, S3, Bucket; Docker, Virtual Box
 * Swagger, ModelMapper, Cloudinary, Mockito, JUnit
 * Linux, Intelij IDEA, Postman, Git

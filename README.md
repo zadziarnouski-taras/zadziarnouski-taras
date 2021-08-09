@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 🏃‍♂️ About me 
 
-Junior Software Engineer with more than year of development experience (no commertial). I have excellent theoretical knowledge of Java Core (SE) and Java EE. I have successfully developed several of my pet-projects.
+My name is Taras. I am 27 years old. I've been programming in Java for over a year. Successfully implemented several training projects using Spring Framework, Hibernate, etc. I've studied OOP principles and design patterns. I've experience working with relational databases: PostgreSQL and MySQL. In the future, I would like to continue to delve into back-end.
 
 ### Key points
 * Key skill Java backend development
